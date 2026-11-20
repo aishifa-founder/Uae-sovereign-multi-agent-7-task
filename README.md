@@ -106,3 +106,6 @@ Backend microservices communicate via standardized JSON function calling:
     "mcp_bioscience_pharmacogenomics(gene_variant, drug_code)"
   ]
 }
+​## License & Intellectual Property Notice
+**Proprietary & Confidential Architecture — All Rights Reserved.**  
+Copyright © 2026 **AiShifa** (Arshia Nousheen). No part of this architecture, multi-agent orchestration design, Model Context Protocol (MCP) interface specification, or documentation may be copied, reproduced, modified, distributed, or used for commercial or derivative development without prior written authorization from **AiShifa**.
